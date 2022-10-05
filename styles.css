@@ -1,0 +1,8 @@
+.all-flights {
+  display: flex;
+}
+
+.airline {
+  flex: 1;
+  border: 1px solid black;
+}
